@@ -1,0 +1,9 @@
+{
+  "id": "task_08",
+  "title": "Fix KeyError — use dict.get() in get_user_age()",
+  "language": "python",
+  "type": "bug_fix",
+  "description": "get_user_age(user) should return the value of user['age'] if it exists, or -1 if the key is missing. Currently it accesses user['age'] directly and raises KeyError when the key is absent. Fix it with .get().",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

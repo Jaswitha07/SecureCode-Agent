@@ -1,0 +1,9 @@
+{
+  "id": "task_06",
+  "title": "Fix fencepost error in count_spaces()",
+  "language": "python",
+  "type": "bug_fix",
+  "description": "count_spaces(n) should return the number of spaces between n fence posts, which is n-1. The function currently returns n+1. Fix the formula.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

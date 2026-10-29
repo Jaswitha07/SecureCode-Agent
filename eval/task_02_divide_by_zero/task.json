@@ -1,0 +1,9 @@
+{
+  "id": "task_02",
+  "title": "Guard against division by zero in safe_divide()",
+  "language": "python",
+  "type": "bug_fix",
+  "description": "The function safe_divide(a, b) should return a / b normally, but return 0 when b is zero instead of raising ZeroDivisionError. Add the guard so the tests pass.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

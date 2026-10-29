@@ -1,0 +1,9 @@
+{
+  "id": "task_12",
+  "title": "Add capitalize() feature in JavaScript",
+  "language": "javascript",
+  "type": "feature",
+  "description": "Add a function capitalize(str) to src/strutils.js that returns the string with the first letter uppercased and the rest lowercased. The tests already exist.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

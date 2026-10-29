@@ -1,0 +1,9 @@
+{
+  "id": "task_04",
+  "title": "Fix missing return in total_price()",
+  "language": "python",
+  "type": "bug_fix",
+  "description": "total_price(items) should return the sum of item['price'] * item['qty'] for each item dict in the list. The function currently calculates the result but forgets to return it. Fix it.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

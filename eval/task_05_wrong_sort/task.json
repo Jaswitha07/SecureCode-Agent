@@ -1,0 +1,9 @@
+{
+  "id": "task_05",
+  "title": "Fix sort order in top_scores()",
+  "language": "python",
+  "type": "bug_fix",
+  "description": "top_scores(scores, n) should return the top n highest scores in descending order. The current implementation sorts in ascending order. Fix it.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "task_11",
+  "title": "Fix missing await in fetchUserName()",
+  "language": "javascript",
+  "type": "bug_fix",
+  "description": "fetchUserName(id) should return the user's name from the async getUserById() function. The current code returns a Promise object instead of the resolved name because it is missing an await. Fix it.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

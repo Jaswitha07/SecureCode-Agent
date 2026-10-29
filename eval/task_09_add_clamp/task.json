@@ -1,0 +1,9 @@
+{
+  "id": "task_09",
+  "title": "Add clamp() feature",
+  "language": "python",
+  "type": "feature",
+  "description": "Add a function clamp(value, lo, hi) to src/mathutils.py that returns lo if value < lo, hi if value > hi, and value otherwise. The tests already exist and must all pass.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

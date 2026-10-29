@@ -1,0 +1,9 @@
+{
+  "id": "task_10",
+  "title": "Add is_palindrome() feature",
+  "language": "python",
+  "type": "feature",
+  "description": "Add a function is_palindrome(s) to src/strutils.py that returns True if the string s reads the same forwards and backwards (case-insensitive, ignoring spaces). The tests already exist.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

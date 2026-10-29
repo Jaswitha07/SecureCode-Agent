@@ -1,0 +1,9 @@
+{
+  "id": "task_03",
+  "title": "Fix type mismatch in is_positive()",
+  "language": "python",
+  "type": "bug_fix",
+  "description": "is_positive(x) should return True when x > 0. The bug compares x to the string '0' instead of the integer 0. Fix the comparison so all tests pass.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

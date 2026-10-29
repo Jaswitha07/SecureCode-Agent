@@ -1,0 +1,9 @@
+{
+  "id": "task_01",
+  "title": "Fix off-by-one in last_element()",
+  "language": "python",
+  "type": "bug_fix",
+  "description": "The function last_element(lst) should return the last item of the list. Currently it returns the second-to-last item due to an off-by-one error. Fix it so the test passes.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}

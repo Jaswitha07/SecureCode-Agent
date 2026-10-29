@@ -1,0 +1,9 @@
+{
+  "id": "task_07",
+  "title": "Fix f-string format in greet()",
+  "language": "python",
+  "type": "bug_fix",
+  "description": "greet(name, time_of_day) should return 'Good morning, Alice!' for name='Alice', time_of_day='morning'. The current code has the placeholders swapped. Fix the f-string.",
+  "expected_outcome": "all_tests_pass",
+  "difficulty": "easy"
+}
