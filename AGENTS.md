@@ -7,3 +7,4 @@
 5. Do not add features that are not in `SPEC.md`.
 6. Never log secrets or API keys.
 7. Ask before deleting any file.
+

@@ -212,3 +212,4 @@ LLM-based coding agents can generate, edit, and execute code autonomously. Witho
 ## Encryption Notice
 
 > **This system is NOT end-to-end encrypted.** The backend server and the external model provider both see plaintext code and prompts. Do not use this system for code that must remain confidential from the model provider.
+
